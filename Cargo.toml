@@ -1,0 +1,16 @@
+[package]
+name = "interruptable"
+version = "0.1.0"
+edition = "2018"
+authors = ["Ivan Boldyrev <lispnik@gmail.com>"]
+description = "Interruptable Read and Write wrappers"
+readme = "README.md"
+repository = "https://github.com/monoid/interruptable"
+license = "MIT"
+keywords = ["ctrlc", "signal"]
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
